@@ -1,4 +1,4 @@
-# Prototype Game CPU Limiter
+# Prototype Game Launcher (Windows 10 & 11)
 
 ## Introduction
 
